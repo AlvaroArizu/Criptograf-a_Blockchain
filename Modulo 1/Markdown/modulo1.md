@@ -25,5 +25,4 @@ Las propiedades que deben cumplirse son:
 - Confidencialidad: Solo entidades autizadas pueden verlo
 - Autenticacion: Debe asegurar la identidad del remitente
 - No repudio: Debe dejar constancia fehaciente del emisor, para que este no pueda negar que la ha enviado.
-## Historia de la criptografia
-##
+- 
